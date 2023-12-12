@@ -1,8 +1,8 @@
   # Consultas MySQL 🐬
 
-Este repositório contém atividades realizadas no MySQL para praticar conceitos de consultas entre os registros de uma banco de dados no MySQL.
 https://github.com/luishenriquebk/mysql_consultas/assets/102004702/63bb0005-9548-4850-ac0c-86a33eb4c224
 
+Este repositório contém atividades realizadas no MySQL para praticar conceitos de consultas entre os registros de uma banco de dados no MySQL.
 #### Link do projeto: 
 https://drive.google.com/drive/folders/13PKKlVuqgOfs1IIky15FT2VTBiOdG_Jw?usp=drive_link
 
