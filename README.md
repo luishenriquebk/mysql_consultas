@@ -1,4 +1,4 @@
-  # Consultas MySQL 🐬
+  # Consultas PARTE 1 MySQL 🐬
 
 https://github.com/luishenriquebk/mysql_consultas/assets/102004702/63bb0005-9548-4850-ac0c-86a33eb4c224
 
